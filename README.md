@@ -1,5 +1,5 @@
 # University FinalProject
-This is my Mutual Fund project for the final year project at Lebanese University.
+This is my Mutual Fund project for my Lebanese University final year project.
 
 I used ASP.net, MSSQL and some javascript.
 
